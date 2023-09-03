@@ -5,7 +5,7 @@ import {
   IonTitle,
   IonToolbar,
 } from "@ionic/react";
-import "./Tab1.css";
+import "./Map.css";
 
 const Tab1: React.FC = () => {
   return (
@@ -18,7 +18,7 @@ const Tab1: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 1</IonTitle>
+            <IonTitle size="large">Map</IonTitle>
           </IonToolbar>
         </IonHeader>
       </IonContent>
